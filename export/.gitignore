@@ -1,0 +1,8 @@
+gamepad_force_focus-for-GMS1/*
+
+gamepad_force_focus-for-GMS2/*
+!gamepad_force_focus-for-GMS2/assetpackage.yy
+
+gamepad_force_focus-for-GMS2.3+/*
+!gamepad_force_focus-for-GMS2.3+/gamepad_force_focus_23.yyp
+!gamepad_force_focus-for-GMS2.3+/metadata.json
